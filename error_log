@@ -1,0 +1,80 @@
+[14-Mar-2023 17:31:21 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:31:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/artisan:20
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:31:58 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:31:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/artisan:20
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:32:33 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:32:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/artisan:20
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:32:41 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:32:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/artisan:20
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:35:42 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:35:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/artisan:20
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:38:14 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:38:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/artisan:20
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:42:16 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:42:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/artisan:20
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:43:02 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:43:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/artisan:20
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:48:24 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:48:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/artisan:20
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:49:03 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:49:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/artisan:20
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:50:04 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:50:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/artisan:20
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:51:29 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:51:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/artisan:20
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:57:23 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 17:57:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/artisan:20
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 18:09:26 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 18:09:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/artisan:20
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 18:12:22 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 18:12:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/artisan:20
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 18:12:38 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/artisan on line 20
+[14-Mar-2023 18:12:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/artisan:20
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/artisan on line 20

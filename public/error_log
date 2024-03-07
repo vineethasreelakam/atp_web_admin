@@ -1,0 +1,20 @@
+[14-Mar-2023 17:27:56 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/public/../bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/public/index.php on line 47
+[14-Mar-2023 17:27:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/public/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/public/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/public/index.php on line 47
+[14-Mar-2023 17:28:46 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/public/../bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/public/index.php on line 47
+[14-Mar-2023 17:28:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/public/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/public/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/public/index.php on line 47
+[14-Mar-2023 17:28:53 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/public/../bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/public/index.php on line 47
+[14-Mar-2023 17:28:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/public/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/public/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/public/index.php on line 47
+[14-Mar-2023 18:13:32 UTC] PHP Warning:  require_once(/home2/b123ivxo/serena.luxe/api/public/../bootstrap/app.php): Failed to open stream: No such file or directory in /home2/b123ivxo/serena.luxe/api/public/index.php on line 47
+[14-Mar-2023 18:13:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/b123ivxo/serena.luxe/api/public/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/b123ivxo/serena.luxe/api/public/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home2/b123ivxo/serena.luxe/api/public/index.php on line 47
